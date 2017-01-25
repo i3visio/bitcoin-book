@@ -1,4 +1,4 @@
-Este repositorio contiene archivos y ejercicios sobre el libro («Bitcoin: la tecnología Blockchain y su investigación»)[http://0xword.com/es/libros/87-bitcoin-la-tecnologia-blockchain-y-su-investigacion.html] (2017), 0xWord.
+Este repositorio contiene archivos y ejercicios sobre el libro [«Bitcoin: la tecnología Blockchain y su investigación»](http://0xword.com/es/libros/87-bitcoin-la-tecnologia-blockchain-y-su-investigacion.html) (2017), 0xWord.
 
 Este repositorio contiene los siguientes ficheros:
 ```
